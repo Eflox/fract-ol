@@ -1,6 +1,6 @@
 # fract-ol
 
-Fractal Vicualizer
+Fractal Visualizer
 
 <img src="https://github.com/Eflox/fract-ol/blob/main/Pictures/Mandelbrot.png" width="300"> <img src="https://github.com/Eflox/fract-ol/blob/main/Pictures/Mandelbrot2.png" width="300"> <img src="https://github.com/Eflox/fract-ol/blob/main/Pictures/Julia.png" width="300"> <img src="https://github.com/Eflox/fract-ol/blob/main/Pictures/Julia1.png" width="300">
 
